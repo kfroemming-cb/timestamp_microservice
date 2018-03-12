@@ -1,0 +1,21 @@
+{
+  "name": "ktimestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node render.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/ktimestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
